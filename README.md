@@ -1,6 +1,4 @@
-### Hi there 👋
-
-My name's Christine and I am a Fullstack web developer.
+### Hi there & welcome to my profile 👋
 <!--
 **ChristineDang/ChristineDang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🤔 I’m looking for help with ...
