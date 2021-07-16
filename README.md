@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am also a graphic illustrator and animator
 
 
-
 ### Technical Skills:
 ![393273_css3_icon](https://user-images.githubusercontent.com/59538550/125997812-ec5953b3-f039-4304-a65e-be517ab495bb.png)
 ![393280_html5_icon](https://user-images.githubusercontent.com/59538550/125997828-6653ef88-4b30-4aae-a0ab-90f8021a2ea5.png)
@@ -26,8 +25,6 @@ Here are some ideas to get you started:
 ![iconfinder_flasklogo](https://user-images.githubusercontent.com/59538550/126003545-37ff6604-089b-4dbf-9100-9aad33a4627b.png)
 ![iconfinder_api](https://user-images.githubusercontent.com/59538550/126000080-a3b8c74d-e791-465c-8138-49ecff4523e1.png)
 
-
-
 ![7564187_figma_logo_brand_icon (1)](https://user-images.githubusercontent.com/59538550/126003857-7f4f9cd5-6660-43bc-8009-97f8ce1bc084.png)
 ![2993707_adobe_brand_brands_logo_logos_icon](https://user-images.githubusercontent.com/59538550/125999648-82461ec4-43db-4083-8828-487b8b13ee33.png)
 ![2993708_adobe_brand_brands_illustrator_logo_icon](https://user-images.githubusercontent.com/59538550/126001325-2a308317-8596-478a-b13b-4cfed85bfb1b.png)
@@ -35,16 +32,7 @@ Here are some ideas to get you started:
 ![1012821_code_development_logo_mysql_icon (1)](https://user-images.githubusercontent.com/59538550/126001746-574b8f31-ebb6-4258-acf3-85c24426e474.png)
 ![1012822_code_development_logo_mongodb_programming_icon (1)](https://user-images.githubusercontent.com/59538550/126001804-04a49fee-8316-40cc-90ed-3e77e33eb19a.png)
 
-
-
-
-
-
-### Connect with me on LinkedIn:
-[![5296501_linkedin_network_linkedin logo_icon](https://user-images.githubusercontent.com/59538550/125997070-6d299326-eebc-4859-88ef-799a32f72ab7.png)][1]
-
-
-
+### Connect with me on [LinkedIn][1]
 
 
 [1]: https://www.linkedin.com/in/christinedang101/ 
