@@ -6,12 +6,12 @@ My name's Christine and I am a Fullstack web developer.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 😄 Pronouns: She/her
+- 📫 How to reach me: Dangc101@gmail.com
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on a few freelance projects and starting my own company!
 - 🌱 I’m currently learning Java, PHP, how to build AI apps, and in depth CSS (animations, parallax, anything to make webpages come to life)
 - 👯 I’m looking to collaborate on any projects that want a unique and eye catching UI!
-- 📫 How to reach me: Dangc101@gmail.com
 - ⚡ Fun fact: I am also a graphic illustrator and animator
 
 
