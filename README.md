@@ -34,5 +34,8 @@ Here are some ideas to get you started:
 
 ### Connect with me on [LinkedIn][1]
 
+### Portfolio [website][2]
+
 
 [1]: https://www.linkedin.com/in/christinedang101/ 
+[2]: https://christinedang.github.io/Bootstrap-Portfolio/
