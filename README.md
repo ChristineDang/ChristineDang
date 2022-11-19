@@ -1,4 +1,4 @@
-### Hi there & welcome to my profile 👋
+### Hi there & welcome to my GitHub page 👋
 <!--
 **ChristineDang/ChristineDang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🤔 I’m looking for help with ...
