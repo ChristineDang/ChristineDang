@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 
 
 [1]: https://www.linkedin.com/in/christinedang101/ 
-[2]: https://christinedang.github.io/Bootstrap-Portfolio/
+[2]: https://christinedang.github.io/Bootstrap-Portfolio/](https://christinedang.github.io/ChDangPortfolio/
